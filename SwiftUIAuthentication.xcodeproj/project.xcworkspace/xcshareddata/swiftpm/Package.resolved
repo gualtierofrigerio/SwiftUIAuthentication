@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "GFAuthentication",
+        "repositoryURL": "https://github.com/gualtierofrigerio/GFAuthentication/",
+        "state": {
+          "branch": null,
+          "revision": "549643c48a3682257449a0ea176e7adb05692e20",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
